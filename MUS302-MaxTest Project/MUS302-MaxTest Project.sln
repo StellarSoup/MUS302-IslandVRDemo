@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUS302-MaxTest Project.CSharp.Plugins", "MUS302-MaxTest Project.CSharp.Plugins.csproj", "{7CE7E974-4EA8-35FD-28CC-D7155F0CDBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUS302-MaxTest Project.CSharp", "MUS302-MaxTest Project.CSharp.csproj", "{48B14CC6-39DC-62E1-59E8-22DA48CACC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUS302-MaxTest Project.CSharp.Editor", "MUS302-MaxTest Project.CSharp.Editor.csproj", "{98026DC6-5E59-65AF-E033-D3B3BA9370F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE7E974-4EA8-35FD-28CC-D7155F0CDBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE7E974-4EA8-35FD-28CC-D7155F0CDBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE7E974-4EA8-35FD-28CC-D7155F0CDBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE7E974-4EA8-35FD-28CC-D7155F0CDBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B14CC6-39DC-62E1-59E8-22DA48CACC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B14CC6-39DC-62E1-59E8-22DA48CACC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B14CC6-39DC-62E1-59E8-22DA48CACC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B14CC6-39DC-62E1-59E8-22DA48CACC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98026DC6-5E59-65AF-E033-D3B3BA9370F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98026DC6-5E59-65AF-E033-D3B3BA9370F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98026DC6-5E59-65AF-E033-D3B3BA9370F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98026DC6-5E59-65AF-E033-D3B3BA9370F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
