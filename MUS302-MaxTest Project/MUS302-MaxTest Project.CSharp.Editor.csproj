@@ -109,9 +109,6 @@
     <Reference Include="Google.ProtocolBuffers">
       <HintPath>Assets\Plugins\Google.ProtocolBuffers.dll</HintPath>
     </Reference>
-    <Reference Include="CoherentNoise">
-      <HintPath>Assets\WorldBuilder\Scripts\Helpers\CoherentNoise.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MUS302-MaxTest Project.CSharp.Plugins.csproj">
@@ -147,8 +144,6 @@
     <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrMenu.cs" />
     <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrViewerEditor.cs" />
     <Compile Include="Assets\GoogleVR\Legacy\Editor\StereoControllerEditor.cs" />
-    <Compile Include="Assets\WorldBuilder\Editor\World.cs" />
-    <Compile Include="Assets\WorldBuilder\Editor\WorldGen.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
@@ -156,7 +151,7 @@
     <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
     <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
-    <None Include="Assets\Proximity.shader" />
+    <None Include="Assets\Resources\Proximity.shader" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
